@@ -7,8 +7,9 @@ http://www.watterott.com/en/WS2812-Breakout
 
 
 ## Features
-* intelligent RGB-LED with 16777216 colors
-* controllable with [Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
+* Built-in WS2811 controller with serial interface
+* RGB-LED with 16777216 colors
+* Controllable with [Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
 
 
 ## Videos
