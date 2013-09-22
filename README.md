@@ -7,8 +7,9 @@ Shop: [WS2812-Breakout](http://www.watterott.com/en/WS2812-Breakout)
 
 
 ## Features
-* Built-in WS2811 controller with serial interface
 * RGB-LED with 16777216 colors
+* Built-in WS2811 controller with serial interface
+* 3 pin connection: VCC, GND, Data
 * Controllable with [Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
 
 
