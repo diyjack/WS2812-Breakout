@@ -1,8 +1,6 @@
 # WS2812-Breakout
 Breakout with WS2812 intelligent RGB-LED.
 
-Datasheet: [WS2812](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2812.pdf), [WS2812B](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2812B.pdf)
-
 Shop: [WS2812-Breakout](http://www.watterott.com/en/WS2812-Breakout)
 
 ![WS2812-Breakout](https://raw.github.com/watterott/WS2812-Breakout/master/img/ws2812-breakout.jpg)
@@ -15,5 +13,10 @@ Shop: [WS2812-Breakout](http://www.watterott.com/en/WS2812-Breakout)
 * Controllable with [Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
 
 
+## Hardware
+* [Schematics + Layout](https://github.com/watterott/WS2812-Breakout/tree/master/pcb)
+* Datasheet: [WS2812](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2812.pdf), [WS2812B](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2812B.pdf)
+
+
 ## Videos
- * [WS2812-Breakout controlled by an Arduino](http://www.youtube.com/watch?v=aJmFd4oc73M)
+* [WS2812-Breakout controlled by an Arduino](http://www.youtube.com/watch?v=aJmFd4oc73M)
