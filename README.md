@@ -20,7 +20,7 @@ Shop: [WS2812-Breakout](http://www.watterott.com/en/WS2812-Breakout)
 
 
 ## Software
-* [Light weight WS2811/WS2812 Library](https://github.com/cpldcpu/light_ws2812/tree/Arduino)
+* [Light weight WS2811/WS2812 Library](https://github.com/cpldcpu/light_ws2812)
 * [Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
 
 
