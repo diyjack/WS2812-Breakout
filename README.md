@@ -14,7 +14,7 @@ Shop: [WS2812-Breakout](http://www.watterott.com/en/WS2812-Breakout)
 
 ## Hardware
 * [Schematics + Layout](https://github.com/watterott/WS2812-Breakout/tree/master/pcb)
-* Datasheet: [WS2812](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2812.pdf), [WS2812S](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2812S.pdf), [WS2812B](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2812B.pdf), [WS2811-LED](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2811LED.pdf)
+* Datasheet: [WS2812](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2812.pdf), [WS2812S](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2812S.pdf), [WS2812B](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2812B.pdf), [WS2812-LED](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2812LED.pdf)
 * Note: for protection connect a >= 300 ohm resistor between the LED data input and controller output pin.
 
 
