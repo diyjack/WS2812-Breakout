@@ -3,7 +3,7 @@ Breakout with WS2812 intelligent RGB-LED.
 
 Shop: [WS2812-Breakout](http://www.watterott.com/en/WS2812-Breakout)
 
-[![WS2812-Breakout](https://raw.github.com/watterott/WS2812-Breakout/master/img/ws2812-breakout.jpg)](http://www.watterott.com/en/WS2812-Breakout)
+[![WS2812-Breakout](https://raw.github.com/watterott/WS2812-Breakout/master/pcb/WS2812-Breakout_v10.jpg)](http://www.watterott.com/en/WS2812-Breakout)
 
 
 ## Features
