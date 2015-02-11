@@ -1,9 +1,15 @@
 # WS2812-Breakout
 Breakout with WS2812 intelligent RGB-LED.
 
-Shop: [WS2812-Breakout](http://www.watterott.com/en/WS2812-Breakout)
-
 [![WS2812-Breakout](https://raw.github.com/watterott/WS2812-Breakout/master/pcb/WS2812-Breakout_v10.jpg)](http://www.watterott.com/en/WS2812-Breakout)
+
+## Shop
+* [WS2812-Breakout](http://www.watterott.com/en/WS2812-Breakout)
+* [WS2812-Ring](https://github.com/watterott/WS2812-Ring)
+* [WS2812-LEDs](http://www.watterott.com/en/WS2812-Intelligent-RGB-LED-10pcs)
+* [WS2812-Stripe 30 LEDs/meter](http://www.watterott.com/en/WS2812-LED-Stripe-30)
+* [WS2812-Stripe 72 LEDs/meter](http://www.watterott.com/en/WS2812-RGB-LED-Stripe-72)
+* [WS2812-Stripe 144 LEDs/meter](http://www.watterott.com/en/WS2812-RGB-LED-Stripe-144-LEDs/m-waterproof-1m)
 
 
 ## Features
@@ -27,4 +33,4 @@ Shop: [WS2812-Breakout](http://www.watterott.com/en/WS2812-Breakout)
 
 
 ## Videos
-* [WS2812-Breakout controlled by an Arduino](http://www.youtube.com/watch?v=aJmFd4oc73M)
+* [![WS2812-Breakout](http://img.youtube.com/vi/aJmFd4oc73M/0.jpg)](https://www.youtube.com/watch?v=aJmFd4oc73M)
